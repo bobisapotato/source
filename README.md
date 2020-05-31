@@ -40,8 +40,6 @@ Please do not try to if you are not confident in your JavaScript capabilities.
 
 | Developers |
 |:----------:|
-| [![Benzi](https://www.gravatar.com/avatar/a9a9e27f874dadfaf0e21e8ecf8e9833.jpg?s=100)](https://github.com/Benzi) |
-| **[Benzi](https://github.com/Benzi)** |
 | **[bobisapotato](https://github.com/bobisapotato)** |
 
 #### Special thanks :sparkles:
