@@ -103,8 +103,6 @@
 | !dclookup / !dc | — | use dclookup on yourself. |
 | !emoji | — | returns a link the emoji list. |
 | !eta | — | shows how long before you will reach the booth. |
-| !fb | — | links to the room's Facebook page (if set in the settings). |
-| !ghostbuster | @user | checks if user is ghosting. |
 | !gif / !giphy | (message) | returns gif (from giphy) related to the tag provided. Returns a random gif if no tags are provided. |
 | !help | — | links to an image to help get people started on plug. |
 | !join | — | join the roulette if it's up. |
