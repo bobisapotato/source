@@ -56,3 +56,5 @@ Any requests for changes can be requested via email, through GitHub or via plug.
 
 
 Alot of this is a very modifed verson of https://github.com/basicBot/source witch was made by https://github.com/Benzi
+
+***THIS IS ONLY FOR THE PLUG DJ VERSON OF THE BOT***
