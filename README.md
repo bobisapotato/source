@@ -1,10 +1,9 @@
-![basicBot](http://i.imgur.com/efwl0PS.png)
+![BOBISAI DOCUMENTATION]
 
 ### Contact
 
-[![Slack](https://basicbot.herokuapp.com/badge.svg)](https://basicbot.herokuapp.com/) [![Facebook group](https://img.shields.io/badge/facebook-group-3b5998.svg?style=flat)](https://facebook.com/groups/basicBot) [![Twitter](https://img.shields.io/twitter/follow/bscbt.svg?style=social)](https://twitter.com/bscbt)
+bobisapotato1 on twitter
 
-Email enquiries: [hi[at]benzi[dot]io](mailto:hi@benzi.io)
 
 ### Usage
 
@@ -43,6 +42,7 @@ Please do not try to if you are not confident in your JavaScript capabilities.
 |:----------:|
 | [![Benzi](https://www.gravatar.com/avatar/a9a9e27f874dadfaf0e21e8ecf8e9833.jpg?s=100)](https://github.com/Benzi) |
 | **[Benzi](https://github.com/Benzi)** |
+| **[bobisapotato](https://github.com/bobisapotato)** |
 
 #### Special thanks :sparkles:
 
@@ -90,7 +90,7 @@ I would like to thank everyone who have contributed in translating the bot via [
 
 ### License
 
-Copyright &copy; 2014-2018 basicBot
+Copyright &copy; 2014-2018 bobisai
 
 Modifications (including forks) of the code to fit personal needs are allowed only for personal use and should refer back to the original source.
 This software is not for profit, any extension, or unauthorised person providing this software is not authorised to be in a position of any monetary gain from this use of this software. Any and all money gained under the use of the software (which includes donations) must be passed on to the original author.
