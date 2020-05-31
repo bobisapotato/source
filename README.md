@@ -30,11 +30,6 @@ You can add blacklists in the settings of the bot via the methods given in that 
 basicBot can be customized to fit your needs. Please refer to [the customization repository](https://github.com/basicBot/custom) for more info.
 Please do not try to if you are not confident in your JavaScript capabilities.
 
-<!--
-### basicBot Chrome Extension
-
-[Get the Official basicBot Chrome Extension](https://chrome.google.com/webstore/detail/basicbot/bjinmbkeneigmkkkpcmcokphbjkepeie)
--->
 
 ### Credits
 
