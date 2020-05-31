@@ -21,7 +21,6 @@ These can be found in [the commands list](commands.md).
 
 ### Blacklists
 
-Examples of blacklists can be found in [the customization repository](https://github.com/basicBot/custom/tree/master/blacklists).
 You can add blacklists in the settings of the bot via the methods given in that same repository. See below for more information.
 
 
