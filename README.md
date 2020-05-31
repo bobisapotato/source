@@ -36,50 +36,8 @@ Please do not try to if you are not confident in your JavaScript capabilities.
 |:----------:|
 | **[bobisapotato](https://github.com/bobisapotato)** |
 
-#### Special thanks :sparkles:
 
-- Fungus: His Tastybot has been a source of inspiration for most of the features, and his help with coding problems has been invaluable to make this bot.
-- TAT, Origin and other Litebot contributors: Their Litebot has inspired features like Roulette.
-- Henchman: Never knew this undertaking would give me a friend too.
-
-#### Translations :globe_with_meridians:
-
-I would like to thank everyone who have contributed in translating the bot via [Transifex](https://www.transifex.com/basicbot/basicbot) :pray:
-
-| Translator | Languages |
-|:----------:|:---------:|
-| 3GoneS | Lithuanian |
-| ajdin291 | Serbian |
-| Bart Boom | Dutch |
-| cirktv| Dutch |
-| clone287 | Turkish |
-| DivinityRSPS | German |
-| [Filly](https://github.com/fillylumi) | French |
-| Gradure | Dutch |
-| H0LYbear | Turkish |
-| hadi555 | German |
-| [Hasztagg](https://github.com/Hasztagg) | Polish |
-| Helvijs Baumanis | Latvian |
-| Inga Deveiko | Latvian |
-| Janis Petrovskis | Latvian |
-| Leopard105 | Czech |
-| linusworld | Chinese (Taiwan) |
-| Liutauras Vaitkus | Lithuanian |
-| Łukasz Strzałek | Polish |
-| [Mikey Wazowsky](https://github.com/MikeyWazowsky) | Polish |
-| [Motel Bible](https://github.com/motelbible) | Portuguese |
-| [NDA](https://github.com/NDAthereal) | French |
-| Patrick H-Hansen | Danish |
-| Rie | Danish |
-| Schokin | Spanish |
-| Shone | Serbian |
-| smt287 | Turkish |
-| Tessi Tess Randysková | Czech |
-| TIGJERUX | Latvian |
-| xMaxist | Dutch |
-| [Yenn](https://twitter.com/tsy_yenn) | Chinese (Taiwan), Malay |
-| Јовев Немања | Serbian |
-
+#
 ### License
 
 Copyright &copy; 2014-2018 bobisai
