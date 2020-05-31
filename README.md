@@ -95,3 +95,6 @@ By using this chatbot you agree to not use it for violating [plug.dj's Terms of 
 You also agree not to alter the bot's code, unless in the cases explicitly stated above, for personal use, or for the sole purpose of submitting a pull request with a bug fix or a feature update, at which point it will be looked at and decided by the authors of the project.
 Please refer to the original author/repository at all times, even on personal forks that are not private.
 Any requests for changes can be requested via email, through GitHub or via plug.dj.
+
+
+Alot of this is a very modifed verson of https://github.com/basicBot/source witch was made by https://github.com/Benzi
